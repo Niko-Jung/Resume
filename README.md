@@ -1,1 +1,1 @@
-![] .png
+![] https://github.com/SS-rong/Resume/blob/main/IMG/Resume_SS-R.png
